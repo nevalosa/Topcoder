@@ -20,7 +20,7 @@ import java.io.StreamTokenizer;
  As the name of the class should be Algorithm , using Algorithm.java as the filename is recommended.
  In any case, you can execute your program by running 'java Algorithm' command.
  */
-class Algorithm {
+class Algorithm3 {
 
     static long Answer;
     static int n;
